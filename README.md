@@ -1,1 +1,1 @@
-https://github.com/LeraRepchenko/zakrivayuschiy-teg-ad
+https://github.com/TimeCryyz/zakrivayuschiy-teg-ad
